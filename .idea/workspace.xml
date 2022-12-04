@@ -4,7 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f68f7fd6-2847-4dd7-ac23-10f63b934204" name="Changes" comment="Minor changes" />
+    <list default="true" id="f68f7fd6-2847-4dd7-ac23-10f63b934204" name="Changes" comment="Minor changes">
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/A little about strings/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/A little about strings/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/A little about strings/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/A little about strings/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/Help with time/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/Help with time/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/Help with time/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/Help with time/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/Language time/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/Language time/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/Language time/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/Language time/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/Library Reference/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/Library Reference/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/Library Reference/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/Library Reference/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/Math from NumPy/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/Math from NumPy/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/Math from NumPy/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/Math from NumPy/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/Nothing But The Truth/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/Nothing But The Truth/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/Nothing But The Truth/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/Nothing But The Truth/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/Theory/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/How to read the documentation/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +56,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2H63obdr7OEJYJxmAgLlsdI4O63" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,8 +81,8 @@
       <recent name="$PROJECT_DIR$/Topics (1)" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tictactoe">
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Simple Tic-Tac-Toe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Topics (1)/Errors/Additional pointers" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Topics/How to read the documentation/Help with time" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Topics (1)/Errors/Additional pointers/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Topics/How to read the documentation/Help with time/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.tictactoe" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.main (4)" />
         <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main (2)" />
       </list>
     </recent_temporary>
   </component>
