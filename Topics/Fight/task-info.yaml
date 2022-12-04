@@ -1,25 +1,6 @@
 type: edu
 custom_name: Fight!
 files:
-- name: tictactoe.py
-  visible: true
-  text: |
-    # write your code here
-
-    def print_line(line):
-        out = '| '
-        for i in line:
-            out += i + ' '
-        out += '|'
-        print(out)
-
-
-    board = input('> ').strip()
-    print('---------')
-    for board_line in [(board[:3]), (board[3:6]), (board[6:])]:
-        print_line(board_line)
-    print('---------')
-  learner_created: false
 - name: tests.py
   visible: false
   text: |
@@ -359,6 +340,25 @@ files:
   learner_created: false
 - name: test/__init__.py
   visible: false
+  learner_created: false
+- name: tictactoe.py
+  visible: true
+  text: |
+    # write your code here
+
+    def print_line(line):
+        out = '| '
+        for i in line:
+            out += i + ' '
+        out += '|'
+        print(out)
+
+
+    board = input('> ').strip()
+    print('---------')
+    for board_line in [(board[:3]), (board[3:6]), (board[6:])]:
+        print_line(board_line)
+    print('---------')
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/6507#comment
 status: Solved
