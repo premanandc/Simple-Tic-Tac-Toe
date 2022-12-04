@@ -4,228 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f68f7fd6-2847-4dd7-ac23-10f63b934204" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Tic-Tac-Toe/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe/Fight/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe/Fight/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe/Fight/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe/First move/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe/First move/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe/First move/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe/The user is the gamemaster/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe/The user is the gamemaster/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe/The user is the gamemaster/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe/Welcome to the battlefield/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe/Welcome to the battlefield/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe/Welcome to the battlefield/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe/What's up on the field/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe/What's up on the field/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe/What's up on the field/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Tic-Tac-Toe/lesson-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe/task/test/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe/task/test/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe/task/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe/task/tictactoe.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Carry on/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Carry on/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Carry on/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Carry on/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Discount/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Discount/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Discount/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Discount/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Enrolling/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Enrolling/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Enrolling/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Enrolling/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Focus on the positive/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Focus on the positive/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Focus on the positive/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Focus on the positive/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Guessing game/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Guessing game/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Guessing game/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Guessing game/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/In the middle/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/In the middle/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/In the middle/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/In the middle/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Movie theater/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Movie theater/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Movie theater/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Movie theater/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Operator/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Operator/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Operator/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Operator/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Order/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Order/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Order/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Order/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Theory/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Theory/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Theory/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Theory/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/True test/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/True test/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/True test/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/True test/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Very odd/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Very odd/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Very odd/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/Very odd/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparisons/lesson-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Healthy sleep/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Healthy sleep/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Healthy sleep/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Healthy sleep/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Leap Year/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Leap Year/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Leap Year/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Leap Year/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Minimum and maximum/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Minimum and maximum/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Minimum and maximum/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Minimum and maximum/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Opposite sign/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Opposite sign/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Opposite sign/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Opposite sign/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Shortcuts/answer.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Shortcuts/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Shortcuts/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Shortcuts/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Spellchecker/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Spellchecker/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Spellchecker/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Spellchecker/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Theory/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Theory/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Theory/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Theory/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Triangle or not triangle/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Triangle or not triangle/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Triangle or not triangle/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/Triangle or not triangle/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Else statement/lesson-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Birthday/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Birthday/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Birthday/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Birthday/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Data science tools in Python/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Data science tools in Python/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Data science tools in Python/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Data science tools in Python/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Guess the result/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Guess the result/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Guess the result/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Guess the result/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Hello, Python/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Hello, Python/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Hello, Python/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Hello, Python/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Main applications/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Main applications/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Main applications/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Main applications/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Older version of Python/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Older version of Python/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Older version of Python/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Older version of Python/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/The origin of the name/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/The origin of the name/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/The origin of the name/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/The origin of the name/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Theory/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Theory/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Theory/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Theory/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Variety of versions/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Variety of versions/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Variety of versions/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Variety of versions/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Versions of Python/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Versions of Python/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Versions of Python/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/Versions of Python/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Introduction to Python/lesson-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Invoking a function/Guess the type/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Invoking a function/Guess the type/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Invoking a function/Guess the type/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Invoking a function/Guess the type/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Invoking a function/Hello, world/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Invoking a function/Hello, world/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Invoking a function/Hello, world/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Invoking a function/Hello, world/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Invoking a function/Longest word/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Invoking a function/Longest word/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Invoking a function/Longest word/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Invoking a function/Longest word/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Invoking a function/Sum of numbers/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Invoking a function/Sum of numbers/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Invoking a function/Sum of numbers/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Invoking a function/Sum of numbers/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Invoking a function/Theory/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Invoking a function/Theory/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Invoking a function/Theory/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Invoking a function/Theory/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Invoking a function/Young and beautiful/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Invoking a function/Young and beautiful/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Invoking a function/Young and beautiful/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Invoking a function/Young and beautiful/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Invoking a function/lesson-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Calculating the factorial/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Calculating the factorial/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Calculating the factorial/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Calculating the factorial/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Capitalize all words/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Capitalize all words/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Capitalize all words/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Capitalize all words/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Copysign function/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Copysign function/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Copysign function/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Copysign function/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/E    x minus one/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/E    x minus one/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/E    x minus one/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/E    x minus one/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Good importing practices/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Good importing practices/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Good importing practices/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Good importing practices/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Not exactly random/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Not exactly random/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Not exactly random/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Not exactly random/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Theory/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Theory/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Theory/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Theory/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/What is a module/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/What is a module/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/What is a module/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/What is a module/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Working with strings/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Working with strings/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Working with strings/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/Working with strings/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Load module/lesson-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Packages/Sequence of names/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Packages/Sequence of names/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Packages/Sequence of names/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Packages/Sequence of names/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Packages/Theory/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Packages/Theory/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Packages/Theory/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Packages/Theory/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Packages/lesson-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/section-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="f68f7fd6-2847-4dd7-ac23-10f63b934204" name="Changes" comment="Minor changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -393,6 +172,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667591883350</updated>
     </task>
+    <task id="LOCAL-00001" summary="Minor changes">
+      <created>1670154459152</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670154459152</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -405,5 +192,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Minor changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor changes" />
   </component>
 </project>
